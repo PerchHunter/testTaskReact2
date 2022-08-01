@@ -1,2 +1,3 @@
-# testTaskReact2
-Тестовое задание React
+### Адрес с ТЗ:
+
+https://github.com/AzureBin/react-test
